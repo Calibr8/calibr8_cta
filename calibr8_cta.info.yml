@@ -1,0 +1,7 @@
+name: Calibr8 CTA
+type: module
+description: Link formatter that creates call to action buttons.
+core: 8.x
+package: Calibr8
+dependencies:
+  - link
