@@ -3,7 +3,7 @@
     "description": "Custom module for adding class and id to links",
     "type": "drupal-custom",
     "keywords": ["Drupal 8","CTA","Feature"],
-    "homepage": "https://github.com/stevenvdhout/calibr8_cta",
+    "homepage": "https://github.com/Calibr8/calibr8_cta",
     "license": "GPL-2.0+",
     "authors": [
         {
